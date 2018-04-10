@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523344942 source:c:\users\daniel anishchenko\documents\github\asanagray\sfml\lana grey\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<vector>
+	<SFML/Graphics.hpp>
+	<sstream>
+
